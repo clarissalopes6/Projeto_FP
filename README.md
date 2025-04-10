@@ -60,5 +60,4 @@ O usuário poderá registrar suas metas, e todas as vezes que alguma atividade f
   <li>
     <a href="https://github.com/alinetakakura">Aline May</a> dfa2@cesar.school 
   </li>
-  <li>
 </ul>
