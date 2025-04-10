@@ -258,11 +258,13 @@ while True:
     if opcao not in [1, 2, 3, 4, 5,6]:
         print("\nOpção inválida")
         continue
+
     if opcao == 1:
         opcao2 = int(input("\n1-Adicionar \n2-Visualizar \n3-Atualizar \n4-Excluir\n \nDigite o número da opção desejada:"))
         if opcao2 not in [1, 2, 3, 4]:
             print("\nOpção inválida")
             continue
+
         if opcao2 ==1:
             numero = int(input("\nDigite o número do treino:"))
             data = input("Digite a data do treino:")
@@ -274,8 +276,10 @@ while True:
             metas = carrega_metas()  
             comparar_com_metas(treinos[numero], metas)  
             salvar_arquivo()
+
         elif opcao2 == 2:
             carrega_dados_treinos()
+
         elif opcao2==3:
             n = int(input("\nDigite o número do treino que deseja atualizar:"))
             atualizar = int(input("\n1-Data \n2-Distância \n3-Tempo \n4-Localização \n5-Clima \nDigite o número da opção que deseja atualizar:"))
@@ -297,13 +301,17 @@ while True:
                     treinos[n]['clima'] = novoclima
                 comparar_com_metas(treinos[numero])
                 salvar_arquivo()
+
         elif opcao2 == 4:
             excluir_treino()
+
     elif opcao == 2:
         opcao3 = int(input("\n1-Adicionar \n2-Visualizar \n3-Atualizar \n4-Excluir\n \nDigite o número da opção desejada:"))
+
         if opcao3 not in [1, 2, 3, 4]:
             print("\nOpção inválida")
             continue
+
         if opcao3 ==1:
             numero = int(input("\nDigite o número da competição:"))
             data = input("\nDigite a data da competição:")
@@ -337,8 +345,10 @@ while True:
                 salvar_arquivo()
         elif opcao3 == 4:  
             excluir_competicao()
+
     elif opcao == 3:
         treino_aleatorio()
+        
     elif opcao == 4:
         tipo = input("\ntreino \ncompetição \nDigite a opção desejada:").lower()
         if tipo == "treino" or tipo=="competição":

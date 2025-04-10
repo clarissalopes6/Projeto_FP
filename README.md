@@ -1,7 +1,7 @@
 # Projeto_treinos
 Esse foi um projeto desenvolvido para a cadeira de Fundamentos de programação buscando avaliar nossos conhecimentos na linguagem de programação python. Consiste em um CRUD que registra e manipula treinos e competições do usuário, além de outras funcionalidades.
 
-**Linguagem de programação:**:<br>
+**Linguagem de programação**:<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # Funcionalidades e guia de uso
