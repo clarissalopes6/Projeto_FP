@@ -1,0 +1,2 @@
+1,04/04/2006,20.0,120.0,rio de janeiro,calor
+3,03/09/2025,10.0,150.0,praia,nublado
