@@ -52,12 +52,12 @@ O usuário poderá registrar suas metas, e todas as vezes que alguma atividade f
     <a href="https://github.com/clarissalopes6">Clarissa Lopes</a> col@cesar.school
   </li>
   <li>
-    <a href="https://github.com/majufponte">Maria Julia Ponte</a> rpfs@cesar.school
+    <a href="https://github.com/majufponte">Maria Julia Ponte</a> mjfp@cesar.school
   </li>
    <li>
-    <a href="https://github.com/liv553">Livia Bezerra</a> pastdcg@cesar.school 
+    <a href="https://github.com/liv553">Livia Bezerra</a> lba3@cesar.school 
   </li>
   <li>
-    <a href="https://github.com/alinetakakura">Aline May</a> dfa2@cesar.school 
+    <a href="https://github.com/alinetakakura">Aline May</a> amt2@cesar.school 
   </li>
 </ul>
