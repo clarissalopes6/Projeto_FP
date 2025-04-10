@@ -1,5 +1,5 @@
 # Projeto_treinos
-Esse foi um projeto desenvolvido para a cadeira de Fundamentos de programação buscando avaliar nossos conhecimentos na linguagem de programação python. Consiste em um CRUD que registra e manipula treinos e competições do usuário, além de outras funcionalidades.
+Esse foi um projeto desenvolvido para a cadeira de Fundamentos de programação buscando avaliar nossos conhecimentos na linguagem de programação ensinada. Consiste em um CRUD que registra e manipula treinos e competições do usuário, além de outras funcionalidades.
 
 **Linguagem de programação**:<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,3 +44,21 @@ O usuário poderá registrar suas metas, e todas as vezes que alguma atividade f
 ``` py 
 6- Gasto calórico
 ```
+
+# Equipe
+
+<ul>
+  <li>
+    <a href="https://github.com/clarissalopes6">Clarissa Lopes</a> col@cesar.school
+  </li>
+  <li>
+    <a href="https://github.com/majufponte">Maria Julia Ponte</a> rpfs@cesar.school
+  </li>
+   <li>
+    <a href="https://github.com/liv553">Livia Bezerra</a> pastdcg@cesar.school 
+  </li>
+  <li>
+    <a href="https://github.com/alinetakakura">Aline May</a> dfa2@cesar.school 
+  </li>
+  <li>
+</ul>
