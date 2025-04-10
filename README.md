@@ -1,4 +1,4 @@
-# Projeto_treinos
+# Projeto_FP
 Esse foi um projeto desenvolvido para a cadeira de Fundamentos de programação buscando avaliar nossos conhecimentos na linguagem de programação ensinada. Consiste em um CRUD que registra e manipula treinos e competições do usuário, além de outras funcionalidades.
 
 **Linguagem de programação**:<br>
